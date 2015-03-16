@@ -1,6 +1,6 @@
 #AllOfGithub
 
-Cataloguing GitHub. Check out the [blog](https://medium.com/@kushagrasingh/cataloguing-github-8a25466b2041) post for more details.
+Cataloging GitHub. Check out the [blog](https://medium.com/@kushagrasingh/cataloguing-github-8a25466b2041) post for more details.
 
 ###Prerequisites
 
