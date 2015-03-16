@@ -1,0 +1,5 @@
+{
+	"User_Agent": /* Your GitHub user name ought to do */,
+	"Client_Id": /* Your GitHub App's client ID */,
+	"Client_Secret": /* Your GitHub App's secret ID */
+}

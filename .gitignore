@@ -26,3 +26,9 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+#Vim swp files
+*.swp
+
+#Mac DS_Store
+*.DS_Store
